@@ -1,0 +1,6 @@
+llama-index
+gradio
+transformers
+huggingface_hub
+kagglehub
+bitsandbytes
