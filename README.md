@@ -45,8 +45,8 @@ Typical repository contents:
 
 - `MedAI.ipynb` — main Colab notebook (backend + frontend)
 - `medai.py` — script version/export of the notebook
-- `Requirments.txt` / `requirements.txt` — dependencies (file name may vary)
-- `bandicam...mp4` — demo video (optional)
+- `Requirments.txt`  — dependencies 
+- `bandicam...mp4` — demo video 
 
 ---
 
